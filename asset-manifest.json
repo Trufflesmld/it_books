@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/it_books/static/css/main.4bae1f9e.css",
-    "main.js": "/it_books/static/js/main.48ec172a.js",
+    "main.js": "/it_books/static/js/main.fc8fd781.js",
     "static/js/787.3f8fb610.chunk.js": "/it_books/static/js/787.3f8fb610.chunk.js",
     "static/media/welcomeIcon.svg": "/it_books/static/media/welcomeIcon.093c8bd9be747c872d80bbad0742e687.svg",
     "static/media/Catallina.otf": "/it_books/static/media/Catallina.11854ce261f337ffb704.otf",
@@ -12,11 +12,11 @@
     "static/media/leftArrow.svg": "/it_books/static/media/leftArrow.bbb000ea36990a04d3fe6a4c1ccdc6a6.svg",
     "static/media/rightArrow.svg": "/it_books/static/media/rightArrow.94c1e89040a6aafc9a7ccb317c49a263.svg",
     "main.4bae1f9e.css.map": "/it_books/static/css/main.4bae1f9e.css.map",
-    "main.48ec172a.js.map": "/it_books/static/js/main.48ec172a.js.map",
+    "main.fc8fd781.js.map": "/it_books/static/js/main.fc8fd781.js.map",
     "787.3f8fb610.chunk.js.map": "/it_books/static/js/787.3f8fb610.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4bae1f9e.css",
-    "static/js/main.48ec172a.js"
+    "static/js/main.fc8fd781.js"
   ]
 }
