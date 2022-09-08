@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.4bae1f9e.css","mappings":"AAAA,WAIE,iBAAkB,CAClB,qBAAwB,CAJxB,iBAAkB,CAElB,kEAGF","sources":["index.css"],"sourcesContent":["@font-face {\n  font-style: normal;\n  /* font-weight: 400; */\n  src: url(\"./assets/fonts/Catallina.otf\");\n  font-display: swap;\n  font-family: \"Catallina\";\n}\n"],"names":[],"sourceRoot":""}
